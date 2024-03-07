@@ -1,2 +1,0 @@
-# NewCoding
-new repository
